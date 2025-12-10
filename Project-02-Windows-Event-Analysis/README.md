@@ -1,2 +1,2 @@
-# Project-02-Windows-Event-Analysis
+# Project 02 — Windows Event Log Analysis and Forensics
 Documentation coming soon...
