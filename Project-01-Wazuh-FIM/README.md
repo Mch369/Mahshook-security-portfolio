@@ -1,2 +1,2 @@
-# Project 01 — Wazuh File Integrity Monitoring (FIM) on Windows 11
+# Project 01 — Wazuh File Integrity Monitoring on Windows 11
 Documentation coming soon...
